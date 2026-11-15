@@ -6,7 +6,7 @@
 Portfólio acadêmico com apresentação pessoal, projetos disponíveis no GitHub, habilidades e contato pelo perfil do GitHub. Criado para apresentar minha formação e meus estudos em Desenvolvimento de Sistemas.
 
 ## Site publicado
-**Pendente de publicação no GitHub Pages.** Depois de publicar, substitua esta frase pelo endereço real exibido em Settings → Pages. Não entregue a atividade com este campo pendente.
+https://aparecidapetak-ai.github.io/portfolio-aparecida/
 
 ## Tecnologias utilizadas
 - HTML5: estrutura e conteúdo.
